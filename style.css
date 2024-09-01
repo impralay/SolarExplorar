@@ -159,7 +159,7 @@ body label.mercury > .preview {
   background: url("https://www.solarsystemscope.com/images/textures/full/2k_makemake_fictional.jpg") !important;
 }
 body label.venus > .preview {
-  background: url("https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg") !important;
+  background-image: url(./images/venus.jpg);
 }
 body label.earth > .preview {
   background: url("https://img00.deviantart.net/04ef/i/2009/114/3/e/new_earth_texture_map_by_lightondesigns.jpg") !important;
@@ -4724,7 +4724,7 @@ body .solar_systm .planet.mercury {
     0 -10px 130px rgba(188, 143, 127, 0.6);
 }
 body .solar_systm .planet.venus {
-  background: url("https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg");
+  background-image: url(./images/venus.jpg);
   box-shadow: 0 -590px 150px black inset, 0 0px 130px 40px #ffcb9c inset,
     0 0px 23px 4px #ffcb9c inset, 0 -10px 130px #b85a07;
 }
